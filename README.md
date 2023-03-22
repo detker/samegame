@@ -90,4 +90,4 @@ To **compile**, type command: **gcc @opcje -DWIERSZE=val1 -DKOLUMNY=val2 -DRODZA
 <br>
 **WIERSZE, KOLUMNY, RODZAJE** - positive integers; RODZAJE <= 10
 
-To **launch**, type command: **./01**
+To **launch**, type command: **./01 arg1 arg2**
