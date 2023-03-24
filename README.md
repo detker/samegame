@@ -92,4 +92,4 @@ To **compile**, type command: **gcc @opcje -DWIERSZE=val1 -DKOLUMNY=val2 -DRODZA
 
 To **launch**, type command: **./01 arg1 arg2**
 
-specification provided by: MIM UW
+*specification provided by: MIM UW*
